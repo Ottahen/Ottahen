@@ -101,7 +101,7 @@ Right now, I am not just coding; I am architecting the future.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ottahen&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="48%" />
   
-<img width="556" height="548" alt="download (3)" src="https://github.com/user-attachments/assets/b3780232-ba2f-4b13-8693-bfd5f03587db" />
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ottahen&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" width="90%" />
