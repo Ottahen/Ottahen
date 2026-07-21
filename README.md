@@ -108,8 +108,7 @@ Explore my repositories to see:
 Each repository includes comprehensive documentation and reflects my commitment to quality.
 
 ---
-
-## 🌐 *Connect & Collaborate*
+<img width="464" height="688" alt="Surreal Graphics _ Futuristic Illustrations_ A" src="https://github.com/user-attachments/assets/30de623c-3b76-4df2-9ad2-47d478cb4274" />## 🌐 *Connect & Collaborate*
 
 I'm always interested in discussing:
 - Innovative digital solutions
@@ -121,6 +120,7 @@ I'm always interested in discussing:
 **Let's build something remarkable together.**
 
 ---
+<img width="736" height="414" alt="oad (5)" src="https://github.com/user-attachments/assets/5849c0c5-b529-4930-b08d-92e8a7d8371c" />
 
 ## 📖 *A Few Principles*
 
