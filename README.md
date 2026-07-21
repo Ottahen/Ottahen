@@ -1,8 +1,6 @@
 <img width="2048" height="2048" alt="Webatron-imggen" src="https://github.com/user-attachments/assets/f99da854-cc85-4a4b-9ac0-71cb4cdbfe5f" />
 
 
-
-<img width="2048" height="2048" alt="UNI" src="https://github.com/user-attachments/assets/d4050a83-62ec-4ccd-b8a1-ee71b15da51b" />
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=OTTAHEN;Systems+Architect;AI+Agent+Explorer;CPython+Internals+Enthusiast" alt="Typing SVG" />
 </p>
@@ -102,8 +100,7 @@ Right now, I am not just coding; I am architecting the future.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ottahen&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ottahen&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="48%" />
-</p>
+  
 <img width="556" height="548" alt="download (3)" src="https://github.com/user-attachments/assets/b3780232-ba2f-4b13-8693-bfd5f03587db" />
 
 <p align="center">
