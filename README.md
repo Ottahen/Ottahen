@@ -307,4 +307,4 @@ I leave you with this:
 </p>
 
 
-![Uploading  😎.jpg…]()
+
